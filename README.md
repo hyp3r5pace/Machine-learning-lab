@@ -19,4 +19,4 @@ Implementing and training a linear regression model on **Boston Housing dataset*
 
 1. Ilustration of curve fitting of various polynomial function of different degree on a single training set.
 2. Implementing a logistic regression model on **Wisconsin breast cancer dataset** to classify data samples as Benign or Malignant tumor. <br>
-    **Todo:** Increase the accuracy of the model, currently on average around 62 (MAE)
+    **Todo:** Increase the accuracy of the model, currently on average around 62% accuracy
