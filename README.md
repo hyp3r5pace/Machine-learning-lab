@@ -13,3 +13,10 @@ Basic python code to illustrate statistical operations such as variance, covaria
 
 Implementation of a linear regression algorithm to approximate a one variable and multivariable function. Illustration of training done using both least square method and gradient descent is present. <br>
 Implementing and training a linear regression model on **Boston Housing dataset** to predict the house prices
+
+
+## Assignment 4
+
+1. Ilustration of curve fitting of various polynomial function of different degree on a single training set.
+2. Implementing a logistic regression model on **Wisconsin breast cancer dataset** to classify data samples as Benign or Malignant tumor. <br>
+    **Todo - ** Increase the accuracy of the model, currently on average around 62 (MAE)
