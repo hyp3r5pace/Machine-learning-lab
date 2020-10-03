@@ -20,3 +20,8 @@ Implementing and training a linear regression model on **Boston Housing dataset*
 1. Ilustration of curve fitting of various polynomial function of different degree on a single training set.
 2. Implementing a logistic regression model on **Wisconsin breast cancer dataset** to classify data samples as Benign or Malignant tumor. <br>
     **Todo:** Increase the accuracy of the model, currently on average around 62% accuracy
+    
+ ## Assignment 5
+ 
+ 1. Implementing AND logical gate and OR logical gate using **single layer perceptron**.
+ 2. Implementing **Naive Bayesian** algorithm on **Wisconsin breast cancer dataset** to classify data samples as Benign or Malignant Tumor.
