@@ -12,4 +12,4 @@ Basic python code to illustrate statistical operations such as variance, covaria
 # Assignment 3
 
 Implementation of a linear regression algorithm to approximate a one variable and multivariable function. Illustration of training done using both least square method and gradient descent is present. <br>
-Implementing and training a linear regression model on **Boston Housing dataset** to predict the outcome of house prices
+Implementing and training a linear regression model on **Boston Housing dataset** to predict the house prices
