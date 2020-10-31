@@ -25,3 +25,8 @@ Implementing and training a linear regression model on **Boston Housing dataset*
  
  1. Implementing AND logical gate and OR logical gate using **single layer perceptron**.
  2. Implementing **Naive Bayesian** algorithm on **Wisconsin breast cancer dataset** to classify data samples as Benign or Malignant Tumor.
+ 
+ ## Assignment 6
+ 
+1. Classification on **IRIS** dataset using a single layer perceptron
+2. Classification on **IRIS** dataset using a multi layer perceptron (MLP)
