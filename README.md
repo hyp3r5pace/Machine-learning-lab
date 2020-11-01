@@ -30,3 +30,7 @@ Implementing and training a linear regression model on **Boston Housing dataset*
  
 1. Classification on **IRIS** dataset using a single layer perceptron
 2. Classification on **IRIS** dataset using a multi layer perceptron (MLP)
+
+
+## Assignment 7
+K mean clustering on **IRIS** dataset with elbow method for selecting the appropiate value of K
