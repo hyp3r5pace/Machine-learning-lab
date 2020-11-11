@@ -34,3 +34,7 @@ Implementing and training a linear regression model on **Boston Housing dataset*
 
 ## Assignment 7
 K mean clustering on **IRIS** dataset with elbow method for selecting the appropiate value of K
+
+## Assignment 8
+1. Clustering on **IRIS** dataset using self organising map (built from scratch) and evaluating the clustering using silhouette score (built from scratch)
+2. Evaluating and comparing the performance of k-mean and SOM (self organising map) clustering on the **IRIS** dataset.
