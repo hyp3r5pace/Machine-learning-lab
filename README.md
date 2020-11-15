@@ -38,3 +38,7 @@ K mean clustering on **IRIS** dataset with elbow method for selecting the approp
 ## Assignment 8
 1. Clustering on **IRIS** dataset using self organising map (built from scratch) and evaluating the clustering using silhouette score (built from scratch)
 2. Evaluating and comparing the performance of k-mean and SOM (self organising map) clustering on the **IRIS** dataset.
+
+## Assignment 9
+1. Classfication on **IRIS** dataset using Support vector machine model (In-built library function used)
+2. Classification on **IRIS** dataset using Radial basis function neural network (RBFNN) (built from scratch)
